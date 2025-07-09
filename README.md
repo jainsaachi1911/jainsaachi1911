@@ -1,6 +1,6 @@
 <h2 align="left">Hi there👋🏻, I'm Saachi Jain</h2>
 
-- A Computer Engineering student with 2 internships totaling over 16 months of experience.
+- A Computer Engineering student with 2 internships totaling over 16 months of experience (part time).
 - I’m passionate about AI/ML and Full-Stack development, and currently exploring Cloud Systems and Deployment Technologies. 
 - I’ve been grateful to share my research at IEEE ICOCT, with a paper soon to be published in IEEE Xplore.
 
