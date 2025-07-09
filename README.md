@@ -4,11 +4,9 @@
 </p>
 
 ### 👩‍💻 About Me
-- I'm currently working on a microplastic detection and classification system using YOLOv10 and Streamlit.
-- I'm interested in AI for Good, Cloud, and Data Science.
-- I'm skilled in Python, React.js, Java, and ML frameworks like YOLO and TensorFlow.
-- I’ve built full-stack projects, research papers, and community tools.
-- Check out my latest work on GitHub or reach out to collaborate!
+- Passionate about AI/ML, Computer Vision, and Full Stack Web Development <br>
+- Enthusiast in solving real-world problems using tech<br>
+- Final year CS student | Researcher | Builder | Innovator
 
 ---
 
