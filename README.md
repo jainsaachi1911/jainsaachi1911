@@ -14,7 +14,7 @@ I’m always eager to learn new tools and technologies to better support my proj
 <h2>Do Reach Out and Connect ✨</h2>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-link/](https://www.linkedin.com/in/saachijain1911/" target="_blank">
+  <a href="https://www.linkedin.com/in/saachijain1911/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" alt="LinkedIn"/>
   </a>
   &nbsp;
