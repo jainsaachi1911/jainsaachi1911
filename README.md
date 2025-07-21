@@ -1,11 +1,6 @@
 <h2 align="left">Hi there👋🏻, I'm Saachi Jain</h2>
 
-- A Computer Engineering student with 2 internships totaling over 16 months of experience (part time).
-- I’m passionate about AI/ML and Full-Stack development, and currently exploring Cloud Systems and Deployment Technologies. 
-- I’ve been grateful to share my research at IEEE ICOCT, with a paper soon to be published in IEEE Xplore.
-
-I’m currently looking for exciting work where I can make meaningful contributions and grow my intermediate-level coding skills. 
-I’m always eager to learn new tools and technologies to better support my project goals. 
+I am an AI/ML and full-stack student. I’m currently exploring cloud systems and deployment technologies. I’m seeking opportunities to grow my coding skills and contribute meaningfully to impactful projects.
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainsaachi1911&layout=compact&theme=radical" alt="Top Languages" />
