@@ -19,7 +19,7 @@ I am an AI/ML and full-stack student. I’m currently exploring cloud systems an
       gap: 6px;
     " onmouseover="this.style.backgroundColor='#4ea1ff'; this.style.color='#fff';" 
        onmouseout="this.style.backgroundColor='transparent'; this.style.color='#4ea1ff';">
-      ✨Please Checkout My Porfolio✨
+      ✨Do Checkout My Porfolio✨
     </button>
   </a>
 </p>
