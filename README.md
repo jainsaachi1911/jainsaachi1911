@@ -2,15 +2,25 @@
 
 I am an AI/ML and full-stack student. I’m currently exploring cloud systems and deployment technologies. I’m seeking opportunities to grow my coding skills and contribute meaningfully to impactful projects.
 
-<h2>Do Reach Out and Connect ✨</h2>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/saachijain1911/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:jainsaachi1911@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30" height="30" alt="Gmail"/>
+ <a href="https://your-portfolio-link.com" target="_blank" style="text-decoration: none;">
+    <button style="
+      background-color: transparent;
+      color: #4ea1ff;
+      border: 2px solid #4ea1ff;
+      padding: 8px 16px;
+      font-size: 60px;
+      font-weight: 600;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    " onmouseover="this.style.backgroundColor='#4ea1ff'; this.style.color='#fff';" 
+       onmouseout="this.style.backgroundColor='transparent'; this.style.color='#4ea1ff';">
+      ✨Please Checkout My Porfolio✨
+    </button>
   </a>
 </p>
 <p align="left">
