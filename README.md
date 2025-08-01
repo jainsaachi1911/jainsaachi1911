@@ -1,4 +1,4 @@
-<h2 align="left">Hi there👋🏻, I'm Saachi Jain</h2>
+<h2 align="left">Hi there, I'm Saachi Jain</h2>
 
 I am an AI/ML and full-stack student. I’m currently exploring cloud systems and deployment technologies. I’m seeking opportunities to grow my coding skills and contribute meaningfully to impactful projects.
 
